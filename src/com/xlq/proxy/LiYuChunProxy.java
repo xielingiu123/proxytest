@@ -24,10 +24,6 @@ public class LiYuChunProxy {
                     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
                        String methodName = method.getName();
 
-                        System.out.println("args"+args);
-                        System.out.println("proxy: "+ proxy.getClass().getName());
-                        System.out.println("method: "+ method.getName());
-
                        if(methodName.equals("sing")){
                            System.out.println("一万刀");
                            return method.invoke(chunchun,args);
@@ -35,7 +31,8 @@ public class LiYuChunProxy {
                            System.out.println("两万刀");
                            return method.invoke(chunchun,args);
                        }else{
-                           System.out.println("不支持此功能！");
+
+                           System.out.println("!");
                        }
 
                         return null;
