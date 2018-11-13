@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5709c7b0-6761-4b45-b125-e952973f0d95" name="Default" comment="addyytrrffe">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../proxytest/.idea/vcs.xml" />
+    <list default="true" id="5709c7b0-6761-4b45-b125-e952973f0d95" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../proxytest/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../proxytest/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../proxytest/src/com/xlq/proxy/LiYuChunProxy.java" afterPath="$PROJECT_DIR$/../proxytest/src/com/xlq/proxy/LiYuChunProxy.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../proxytest/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,14 +35,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LiYuChunProxy.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LiYuChunProxy.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../proxytest/src/com/xlq/proxy/LiYuChunProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="37" column="36" lean-forward="true" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+            <state relative-caret-position="114">
+              <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
               <folding>
                 <element signature="docComment;class#LiYuChunProxy#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompositeDataInvocationHandler.java" pinned="false" current-in-tab="true">
+        <entry file="jar://$PROJECT_DIR$/../tools/kaifa/jdk1.8.0_131/src.zip!/javax/management/openmbean/CompositeDataInvocationHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="152" column="30" lean-forward="true" selection-start-line="152" selection-start-column="30" selection-end-line="152" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -709,15 +717,24 @@
       <workItem from="1541656846058" duration="7253000" />
       <workItem from="1541746751570" duration="813000" />
       <workItem from="1541747979506" duration="1637000" />
-      <workItem from="1541750015641" duration="1351000" />
+      <workItem from="1541750015641" duration="2154000" />
     </task>
+    <task id="LOCAL-00001" summary="addyytrrffe">
+      <created>1541752479030</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541752479030</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11054000" />
+    <option name="totallyTimeSpent" value="11857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -734,7 +751,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26096824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26096824" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1585,14 +1602,6 @@
     <entry file="file://$PROJECT_DIR$/../proxytest/src/com/xlq/test/A.java" />
     <entry file="file://$PROJECT_DIR$/../proxytest/src/com/xlq/test/D.java" />
     <entry file="file://$PROJECT_DIR$/../proxytest/src/com/xlq/test/AA.java" />
-    <entry file="jar://$PROJECT_DIR$/../tools/kaifa/jdk1.8.0_131/src.zip!/javax/management/openmbean/CompositeDataInvocationHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="115" column="29" lean-forward="false" selection-start-line="115" selection-start-column="29" selection-end-line="115" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../tools/kaifa/jdk1.8.0_131/src.zip!/java/lang/IllegalArgumentException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-554">
@@ -1611,11 +1620,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../proxytest/src/com/xlq/proxy/LiYuChunProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="37" column="36" lean-forward="true" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+        <state relative-caret-position="114">
+          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
           <folding>
             <element signature="docComment;class#LiYuChunProxy#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../tools/kaifa/jdk1.8.0_131/src.zip!/javax/management/openmbean/CompositeDataInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="152" column="30" lean-forward="true" selection-start-line="152" selection-start-column="30" selection-end-line="152" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>

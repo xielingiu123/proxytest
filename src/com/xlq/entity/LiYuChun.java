@@ -16,4 +16,10 @@ public class LiYuChun implements Person {
         System.out.println("dance");
         return "飞吻";
     }
+
+    //实现类,可以选择是否重写接口
+    @Override
+    public void eat() {
+        System.out.println("实现类重写接口的eat方法");
+    }
 }
